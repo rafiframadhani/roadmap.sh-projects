@@ -4,6 +4,6 @@
 
 ## Projects
 
-- [01-single-page-cv](./01-single-page-cv/) — Single-Page CV
+- [01-single-page-cv](./Frontend/01-single-page-cv/) — Single-Page CV
 
 Explore each folder for project details and code.my
