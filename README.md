@@ -1,9 +1,10 @@
-# roadmap.sh-projects
+# Projects from Roadmap.sh
 
  a collection of my frontend projects following the [roadmap.sh Frontend Developer](https://roadmap.sh/frontend) guide.
 
-## Projects
+## Projects List
+- [Single-Page CV](https://roadmap.sh/projects/single-page-cv) 
 
-- [01-single-page-cv](./Frontend/01-single-page-cv/) — Single-Page CV
+Explore each folder for project details and code.my:
 
-Explore each folder for project details and code.my
+- [01-single-page-cv](./Frontend/01-single-page-cv/) 
